@@ -5,6 +5,6 @@
 ## MINHAS REDES SOCIAIS PARA CONTATO :
 
   [![GITHUB](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pablovinix_?igshid=OGQ5ZDc2ODk2ZA==)
-    
+  [![TELEGRAM](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](@PabloVini2811)  
 
     
