@@ -11,7 +11,7 @@
 
   ![PabloVini28 GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloVini28&icons=true&theme=transparent)
 
-## LINGUAGENS QUE EU USO:
+## LINGUAGENS DOMINANTES :
 
  ![TELEGRAM](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black) ![TELEGRAM](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white) ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge) ![PYTHON](https://img.shields.io/badge/_-PY-3572A5.svg?style=for-the-badge)
     
