@@ -1,8 +1,8 @@
-# BEM-VINDO(A) AO MEU GIT-HUB.
+# BEM-VINDO(A) AO MEU GIT-HUB 🖥️
 
-## ME CHAMO PABLO VINI E SOU DISCENTE DO CURSO DE ENGENHARIA DE COMPUTAÇÃO PELA UNIVERSIDADE FEDERAL DO CEARÁ.
+## ME CHAMO PABLO VINI E CURSO ENGENHARIA DE COMPUTAÇÃO ⚙️📚
     
-## MEIOS PARA CONTATO :
+### MEIOS PARA CONTATO 💬
 
   [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pablovinix_?igshid=OGQ5ZDc2ODk2ZA==)
   [![TELEGRAM](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/PabloVini2811)
@@ -11,7 +11,7 @@
 
   ![PabloVini28 GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloVini28&icons=true&theme=transparent)
 
-## LINGUAGENS DOMINANTES :
+### LINGUAGENS DOMINANTES ⌨️🖱️
 
  ![TELEGRAM](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black) ![TELEGRAM](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white) ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge) ![PYTHON](https://img.shields.io/badge/_-PY-3572A5.svg?style=for-the-badge)
     
