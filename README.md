@@ -13,6 +13,6 @@
 
 ### LINGUAGENS DOMINANTES ⌨️🖱️
 
- ![TELEGRAM](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black) ![TELEGRAM](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white) ![PYTHON](https://img.shields.io/badge/_-PY-3572A5.svg?style=for-the-badge) ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge) ![JAVASCRIPT](https://img.shields.io/badge/_-JAVASCRIPT-6E4C20.svg?style=for-the-badge)
+ ![TELEGRAM](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![TELEGRAM](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![ASSEMBLY](https://img.shields.io/badge/_-ASM-FF0000.svg?style=for-the-badge) 
     
     
