@@ -13,6 +13,7 @@
 
 ### LINGUAGENS DOMINANTES ⌨️🖱️
 
- ![TELEGRAM](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![TELEGRAM](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![ASSEMBLY](https://img.shields.io/badge/_-ASM-FF0000.svg?style=for-the-badge) 
-    
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![VHDL](https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge&logo=xilinx&logoColor=white) ![Assembly](https://img.shields.io/badge/ASM-FF0000?style=for-the-badge) ![Java](https://img.shields.io/badge/Java-%23FF5733?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
     
