@@ -1,6 +1,6 @@
 # HI, MY NAME IS PABLO VINÍCIOS, WELCOME TO MY GITHUB ⚙️📚
 
-## CURRENTLY:
+### CURRENTLY:
 - 📖**Enrollment:** 5th Semester of Computer Engineering at UFC.
 - 💻**Studying:** Programming techniques for embedded systems and Digital Systems
 - 🧑‍💻**Internship:** Fundação Demócrito Rocha.
@@ -20,6 +20,7 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pablovsa2811@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pablo-vinicios-da-silva-araujo-89b159280?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6v%2FbR%2BFATmOox9skY4jw%2Fg%3D%3D)  
 
-![GIF Animado](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.ccm.net%2Ffaq%2F42815-como-inserir-um-gif-animado-no-gmail&psig=AOvVaw0NBuJtfrLEGKb9mctaJcW-&ust=1712676293827000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjvnbT2soUDFQAAAAAdAAAAABAc)
+### THANKS FOR READING, BYE BYE 😁
+![ezgif com-animated-gif-maker](https://github.com/PabloVini28/PabloVini28/assets/128994831/df6214af-5e31-4fc0-b6e6-b97073ef1a4f)
 
     
