@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloVini28&show_icons=true&theme=radical)
 
-### CONTACT ME 💬
+### SOCIAL MEDIAS 💬
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pablovinix_?igshid=OGQ5ZDc2ODk2ZA==)
 [![TELEGRAM](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/PabloVini2811)
