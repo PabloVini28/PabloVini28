@@ -18,7 +18,7 @@
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pablovinix_?igshid=OGQ5ZDc2ODk2ZA==)
 [![TELEGRAM](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/PabloVini2811)
 [![GMAIL](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pablovsa2811@gmail.com)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](linkedin.com/in/pablo-vinícios-da-s-araújo-89b159280)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)]([linkedin.com/in/pablo-vinícios-da-s-araújo-89b159280])
 [![YOUTUBE](https://img.shields.io/badge/YOUTUBE-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@PabloVini_Araujo) 
 
 ### THANKS FOR READING, BYE BYE 😁
