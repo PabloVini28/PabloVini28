@@ -20,6 +20,8 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pablovsa2811@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pablo-vin%C3%ADcios-da-s-ara%C3%BAjo-89b159280/)
 [![YOUTUBE](https://img.shields.io/badge/YOUTUBE-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@PabloVini_Araujo) 
+[![CV](https://img.shields.io/badge/CVLattes-0047AB.svg?style=for-the-badge&logo=Lattes&logoColor=white)](http://lattes.cnpq.br/8858311701821906)
+
 
 ### THANKS FOR READING, BYE BYE 😁
 ![ezgif com-animated-gif-maker](https://github.com/PabloVini28/PabloVini28/assets/128994831/df6214af-5e31-4fc0-b6e6-b97073ef1a4f)
