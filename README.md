@@ -12,7 +12,7 @@
 ![Java](https://img.shields.io/badge/Java-%23FF5733?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![HTML](https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br>
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge&logo=xilinx&logoColor=white) 
 ![Assemblyx86](https://img.shields.io/badge/Assembly_x86-FF0000?style=for-the-badge&logo=assembly&logoColor=white) 
