@@ -1,4 +1,4 @@
-# HI, MY NAME IS PABLO VINÍCIOS, WELCOME TO MY GITHUB 👋
+# Hi 👋 , my name is Pablo Vinícios, welcome to my GitHub!
 
 ### CURRENTLY:
 - 📖**Enrollment:** 5th Semester of Computer Engineering at UFC.
