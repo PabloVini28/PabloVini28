@@ -2,7 +2,7 @@
 
 ### CURRENTLY:
 - 📖**Enrollment:** 5th Semester of Computer Engineering at UFC.
-- 💻**Studying:** Programming embedded systems and WebDeveloper 
+- 💻**Studying:** Studying embedded systems and WebDevelopment
 - 🧑‍💻**Internship:** Fundação Demócrito Rocha.
 
 ### TOOLS I KNOW ⌨️🖱️
