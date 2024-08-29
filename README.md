@@ -1,7 +1,7 @@
 # Hi 👋 , my name is Pablo Vinícios, welcome to my GitHub!
 
 ### CURRENTLY:
-- 📖**Enrollment:** 5th Semester of Computer Engineering at UFC.
+- 📖**Enrollment:** Software Engineering at UFC.
 - 💻**Studying:** Embedded Systems, Data Science and Web-Development.
 - 🧑‍💻**Internship:** Fundação Demócrito Rocha.
 
