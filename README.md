@@ -2,7 +2,7 @@
 
 ### CURRENTLY:
 - 📖**Enrollment:** Software Engineering at UFC.
-- 💻**Studying:** Embedded Systems, Data Science and Web-Development.
+- 💻**Studying:** Web-Development, Embedded Systems and Data Science .
 - 💼**Internship:** Made at Fundação Demócrito Rocha.
 
 ### LANGUAGES I KNOW 🖱️
