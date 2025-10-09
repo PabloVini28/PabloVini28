@@ -1,4 +1,4 @@
-# Hi 👋 , my name is Pablo, welcome to my GitHub!
+# Hi 👋 , my name is Pablo Vini Araujo, welcome to my GitHub!
 
 ### CURRENTLY:
 - 📖**Enrollment:** Software Engineering at UFC.
