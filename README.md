@@ -2,11 +2,11 @@
 
 🎓 I'm currently pursuing a **Bachelor’s degree in Software Engineering** at **UFC** (Federal University of Ceará).
 
-💼 I'm working as a **Teaching Assistant** in **Algorithm Analysis**, while diving deep into:
+💼 I'm working as a **Back-End Developer** in **Java Spring Boot**, while diving deep into:
 
 - 🌐 **Web Development**
-- ⚙️ **Embedded Systems**
-- 📊 **Data Science**
+- ⚙️ **Electron Apps**
+- 📱 **Android Studio**
 
 ---
 
