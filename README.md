@@ -34,9 +34,6 @@
 
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
 
-### STATS 📊
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloVini28&show_icons=true&theme=radical) <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVini28&layout=compact&theme=radical)
 
 ### SOCIAL MEDIAS 💬
 
