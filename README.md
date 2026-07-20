@@ -1,129 +1,51 @@
-# 🚀 Hi there, I'm Pablo Vinícios!
+# 👋 Hi there, I'm **Pablo** — Welcome to my GitHub!
 
-<p align="left">
-  <strong>Software Engineering Student & Back-End Developer</strong> 
-  <br />
-  Passionate about building robust, scalable solutions and solving real-world problems through clean architecture and optimized data modeling.
-</p>
+🎓 I'm currently pursuing a **Bachelor’s degree in Software Engineering** at **UFC** (Federal University of Ceará).
 
-### ⚙️ GitHub Analytics
+💼 I'm working as a **Back-End Developer** in **Java Spring Boot**, while diving deep into:
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=PabloVini28&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVini28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Top Languages"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=PabloVini28&theme=dark&hide_border=false"
-        alt="Github Streak"
-      />
-    </td>
-  </tr>
-</table>
+- 🌐 **Web Development**
+- ⚙️ **Electron Apps**
+- 📱 **Android Studio**
 
---- 
+## 🧠 Languages I Use
 
-### 🏆 GitHub Profile Trophies
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23FF5733?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
+<br>
+![HTML](https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Profile Trophies">
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=PabloVini28&column=8&theme=darkhub&no-frame=true&no-bg=true"
-      alt="Trophies"
-    />
-  </a>
-</p>
+## 🛠️ Tools & Technologies
 
----
+![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![MaterialUI](https://img.shields.io/badge/Material%20UI-%23FFFFFF?style=for-the-badge&logo=MUI&logoColor=#007FFF)
 
-## 👤 About Me
+## 🗄️ Databases
 
-- 🤔 **Exploring:** Advanced system architecture, machine learning integrations, and performance tuning.
-- 🎓 **Education:** Pursuing a Bachelor's degree in **Software Engineering** at **UFC** (Federal University of Ceará - Campus Quixadá, 2024 - 2027).
-- 💼 **Current Focus:** Delivering highly efficient back-end systems using **Java Spring Boot** and relational data structures.
-- 🌱 **Learning & Refining:** Automating deployment pipelines (CI/CD) and refining complex computational analysis.
-- 🗣️ **Languages:** Portuguese (Native) & English (Professional Working Proficiency).
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+## 🖥️ Operating Systems & Version Control
 
-## 🛠️ My Tech Stack
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-**Applications & Data**
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring&logoColor=6DB33F)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 
-**DevOps & Utilities**
+### SOCIAL MEDIAS 💬
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pablovinix_?igshid=OGQ5ZDc2ODk2ZA==)
+[![TELEGRAM](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/PabloVini2811)
+[![GMAIL](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pablo.araujo@alu.ufc.br)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pablovinicios)
+[![YOUTUBE](https://img.shields.io/badge/YOUTUBE-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@PabloVini_Araujo) 
+[![CV](https://img.shields.io/badge/CVLattes-0047AB.svg?style=for-the-badge&logo=Lattes&logoColor=white)](http://lattes.cnpq.br/8858311701821906)
 
-**Development & Management Tools**
 
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+### THANKS FOR READING, BYE BYE 😁
+![ezgif com-animated-gif-maker](https://github.com/PabloVini28/PabloVini28/assets/128994831/df6214af-5e31-4fc0-b6e6-b97073ef1a4f)
 
----
-
-## 💼 Work Experience
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" width="320px" align="right">
-
-**Technical Lead** \
-**LAMPI - IFCE** • Contract (Mar 2026 – Jul 2026) \
-Led engineering demands at the Laboratory of Machine Learning and Innovative Projects (LAMPI). Coordinated technical planning, feature scope, and software deliverables.
-
-**Back-End Developer Intern** \
-**LAMPI - IFCE** • Internship (Sep 2025 – Dec 2025) \
-Focused on robust backend development utilizing **Java Spring Boot**, building RESTful endpoints and optimized system modules.
-
-**Teaching Assistant (Algorithms & Computational Complexity)** \
-**Universidade Federal do Ceará (UFC)** • Part-time (Apr 2025 – Dec 2025) \
-Mentored undergraduate students in Algorithm Design and Analysis, breaking down complex data structure logic and execution optimization.
-
-**Programming Tutor** \
-**Fundação Demócrito Rocha** • Seasonal (2022, 2023, 2024) \
-Instructed student cohorts in computational logic foundations and gamified software structures within the *Fábrica de Programadores* ecosystem.
-
-<br clear="right"/>
-
----
-
-## 💬 Where to Find Me
-
-[![Linkedin](https://img.shields.io/badge/-pablovinicios-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablovinicios)
-[![Gmail](https://img.shields.io/badge/-pablo.araujo@alu.ufc.br-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:pablo.araujo@alu.ufc.br)
-[![GitHub Followers](https://img.shields.io/github/followers/PabloVini28?label=follow&style=social)](https://github.com/PabloVini28)
-
----
-
-<p align="center">
-  <sub>Built with 💜 by Pablo Vinícios. Feel free to reach out for collaborations or project questions!</sub>
-</p>
+    
